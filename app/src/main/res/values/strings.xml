@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Study Focus</string>
+    <string name="accessibility_description">Detects which app is opened so Study Focus can block distracting apps during a focus session. It does not read your screen content.</string>
+</resources>
